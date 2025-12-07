@@ -25,7 +25,11 @@ The dashboard addresses two key challenges:
 2.  **Visualization Requirement:** Transforming raw transactional data into actionable visualizations that highlight **where, when, and what** is selling best, supporting decisions in inventory management, marketing spend allocation, and regional strategy.
 
   
-   
+
+## 📂 Used Dataset (Excel)
+
+📄 **[Car Sales.xlsx](https://raw.githubusercontent.com/nikhilguntur/Car-Sales-Dashboard/main/Car%20Sales.xlsx)**
+
 
 ### **📈 Dashboard Screenshot**
 
