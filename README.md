@@ -17,14 +17,55 @@ This repository contains the files and documentation for a comprehensive Power B
 * **Data Modeling & Calculations:** DAX (Data Analysis Expressions)
 * **Source Data:** (Specify your data source, e.g., CSV, SQL Database, Excel)
 
-### **Business Problem Solved**
+### **Problem Stement-1**
+###
+->KPI’s Requirement
+###
+The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
+###
+Sales Overview:
+###
+-Year-to-Date (YTD) Total Sales
+###
+-Month-to-Date (MTD) Total Sales
+###
+-Year-over-Year (YOY) Growth in Total Sales
+###
+-Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+###
+Average Price Analysis:
+###
+-YTD Average Price
+###
+-MTD Average Price
+###
+-YOY Growth in Average Price
+###
+-Difference between YTD Average Price and PTYD Average Price
+###
+Cars Sold Metrics:
+###
+-YTD Cars Sold
+###
+-MTD Cars Sold
+###
+-YOY Growth in Cars Sold
+###
+-Difference between YTD Cars Sold and PTYD Cars Sold
 
-The dashboard addresses two key challenges:
+### **Problem Statement-2**
+1)YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
+###
+2)YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
+###
+3)YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
+###
+4)YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
+###
+5)Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
+###
+6)Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc..
 
-1.  **KPI Requirement:** Establishing a single source of truth for all critical sales metrics to enable stakeholders to quickly assess business health and track progress against targets.
-2.  **Visualization Requirement:** Transforming raw transactional data into actionable visualizations that highlight **where, when, and what** is selling best, supporting decisions in inventory management, marketing spend allocation, and regional strategy.
-
-  
 
 ## 📂 Used Dataset (Excel)
 
