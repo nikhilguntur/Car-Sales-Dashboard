@@ -75,3 +75,4 @@ Cars Sold Metrics:
 ### **📈 Dashboard Screenshot**
 
 ![Car Sales Dashboard Overview](https://github.com/nikhilguntur/Car-Sales-Dashboard/blob/main/Car%20Sales%20Screenshot.png)
+![Car Sales Dashboard Overview-2](https://github.com/nikhilguntur/Car-Sales-Dashboard/blob/main/Screenshot%202025-12-08%20150806.png)
